@@ -1,5 +1,6 @@
 #include "derived.h"
 #include "base.h"
+#include "defs.h"
 #include <iostream>
 using namespace std;
 
